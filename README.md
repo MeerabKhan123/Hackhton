@@ -1,6 +1,6 @@
 ## Overview
 
-A simple landing page for a hackathon project, showcasing the skills and technologies used in its development. This project is a great example of how to create a visually appealing and functional web application using HTML, CSS, JavaScript, and Firebase.
+A modern landing page (CD22-formula) for a hackathon project, showcasing the skills and technologies used in its development. This project is a great example of how to create a visually appealing and functional web application using HTML, CSS, JavaScript, and Firebase.
 
 ## Features
 
