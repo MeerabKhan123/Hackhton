@@ -15,10 +15,14 @@ Secure Authentication and Realtime Database for user sign-in and live data handl
 Dynamic behavior like form validation, DOM manipulation, and user feedback powered by vanilla JS.
 
 ## 🛠️ Tech Stack
- .Technology	Purpose    
- . HTML5	Markup structure
-. CSS3	Styling & layout (with SCSS)
- . JavaScript	Logic & user interaction
+ .Technology	Purpose   
+ 
+ .HTML5	Markup structure
+ 
+.CSS3	Styling & layout (with SCSS)
+
+ .JavaScript	Logic & user interaction
+ 
  .Firebase	Authentication & database
 
 ## 🌐 Live Demo
